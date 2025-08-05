@@ -16,4 +16,16 @@ Uygulamanın Anasayfasında henüz içerik eklenmemişse, ekrana “Henüz içer
 
 ![Ekle](Eklesayfası.jpg)
 Uygulamanın Ekle sayfasında kullanıcı, film ya da dizinin adını, türünü, izleme durumunu, izlediği platformu ve açıklamasını girer. "Ekle" butonuna bastığında içerik Anasayfa’da listelenir.
+
 ---
+
+
+##  3. Ekle(Puanlama)
+
+![Puanlama](Puan.jpg)
+
+Eğer “Durum” alanında “İzlendi” seçilirse, değerlendirme (puanlama) alanı görünür ve kullanıcı içeriğe 0-10 arasında bir puan verir.
+---
+
+
+
