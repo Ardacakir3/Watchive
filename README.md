@@ -15,6 +15,7 @@ Uygulamanın Anasayfasında henüz içerik eklenmemişse, ekrana “Henüz içer
 ##  2.Ekle 
 
 ![Ekle](Eklesayfası.jpg)
+
 Uygulamanın Ekle sayfasında kullanıcı, film ya da dizinin adını, türünü, izleme durumunu, izlediği platformu ve açıklamasını girer. "Ekle" butonuna bastığında içerik Anasayfa’da listelenir.
 
 ---
