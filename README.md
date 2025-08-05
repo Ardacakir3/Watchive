@@ -52,6 +52,16 @@ Kullanıcı, listelenen bir içeriğe tıkladığında ekranın altında Detay, 
 ![Detay](Detaysayfası.jpg)
 
 Seçenekler menüsünde kullanıcı “Detay” seçeneğine bastığında, tıklanan içeriğe ait bilgiler detay sayfasında görüntülenir.
+
+---
+
+
+##  7. Düzenle Sayfası
+
+![Düzenle](Düzenlesayfası.jpg)
+
+Kullanıcı, seçenekler menüsünde “Düzenle” seçeneğine bastığında, değiştirmek istediği içeriği düzenleyebilir.
+
 ---
 
 
