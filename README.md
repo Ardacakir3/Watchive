@@ -12,7 +12,7 @@ Uygulamanın Anasayfasında henüz içerik eklenmemişse, ekrana “Henüz içer
 
 ---
 
-##  2.Ekle 
+##  2.Ekle Sayfası
 
 ![Ekle](Eklesayfası.jpg)
 
@@ -21,7 +21,7 @@ Uygulamanın Ekle sayfasında kullanıcı, film ya da dizinin adını, türünü
 ---
 
 
-##  3. Ekle(Puanlama)
+##  3. Ekle Sayfası(Puanlama)
 
 ![Puanlama](Puan.jpg)
 
