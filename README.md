@@ -25,7 +25,7 @@ Uygulamanın Ekle sayfasında kullanıcı, film ya da dizinin adını, türünü
 
 ![Puanlama](Puan.jpg)
 
-Durum” alanında “İzlendi” seçilirse, değerlendirme (puanlama) alanı görünür ve kullanıcı içeriğe 0-10 arasında bir puan verir.
+Eğer “Durum” alanında “İzlendi” seçilirse, değerlendirme (puanlama) alanı görünür ve kullanıcı içeriğe 0-10 arasında bir puan verir. "
 
 ---
 
