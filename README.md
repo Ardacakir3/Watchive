@@ -47,3 +47,12 @@ Kullanıcı, listelenen bir içeriğe tıkladığında ekranın altında Detay, 
 
 
 
+##  6. Detay Sayfası
+
+![Detay](Detaysayfası.jpg)
+
+Seçenekler menüsünde kullanıcı “Detay” seçeneğine bastığında, tıklanan içeriğe ait bilgiler detay sayfasında görüntülenir.
+---
+
+
+
