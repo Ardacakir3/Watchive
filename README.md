@@ -25,7 +25,14 @@ Uygulamanın Ekle sayfasında kullanıcı, film ya da dizinin adını, türünü
 
 ![Puanlama](Puan.jpg)
 
-Eğer “Durum” alanında “İzlendi” seçilirse, değerlendirme (puanlama) alanı görünür ve kullanıcı içeriğe 0-10 arasında bir puan verir.
+
+
+##  4. Anasayfada Listelenmesi
+
+![Listeleme](Listeleme.jpg)
+
+Kullanıcı, Ekle sayfasında içerik bilgilerini (ad, tür, izleme durumu, izlediği platform, açıklama ve varsa puan) girdikten sonra "Ekle" butonuna basar. Eklenen içerikler, Anasayfa’da görseldeki gibi listelenir.
+
 ---
 
 
