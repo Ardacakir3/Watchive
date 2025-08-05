@@ -37,3 +37,13 @@ Kullanıcı, Ekle sayfasında içerik bilgilerini (ad, tür, izleme durumu, izle
 
 
 
+##  5. Seçenek Menüsü
+
+![Seçenekler](Seçenekler.jpg)
+
+Kullanıcı, listelenen bir içeriğe tıkladığında ekranın altında Detay, Düzenle ve Sil seçeneklerini içeren bir menü açılır.
+
+---
+
+
+
