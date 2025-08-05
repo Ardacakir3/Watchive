@@ -65,4 +65,13 @@ Kullanıcı, seçenekler menüsünde “Düzenle” seçeneğine bastığında, 
 ---
 
 
+##  8. Sil
+
+![Sil](Sil.jpg)
+
+Kullanıcı, seçenekler menüsünde “Sil” seçeneğine bastığında, Anasayfa’da listelenen ilgili içerik izleme listesinden kaldırılır.
+
+---
+
+
 
